@@ -3,7 +3,7 @@
 ## Start app instruction:
 
 1). git clone https://github.com/Nikitapopov/Cat-sharing.git  
-2). cd Car-sharing  
+2). cd Cat-sharing  
 3). npm install  
 4). docker-compose up  
 5). npm run start:dev
@@ -100,7 +100,7 @@ Description: getting an array of booked cats
 
 #### Request
 
-Parameters: 
+Parameters:  
 optional params:  
 page: integer - default: 1 - current page in pagination    
 amount: integer - default: 10 -  amount items on page
